@@ -1,0 +1,41 @@
+
+LogoData-hd.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Logo_Cabeza1
+  rotate: false
+  xy: 2, 80
+  size: 151, 144
+  orig: 151, 144
+  offset: 0, 0
+  index: -1
+Logo_Cabeza2
+  rotate: false
+  xy: 155, 80
+  size: 151, 144
+  orig: 151, 144
+  offset: 0, 0
+  index: -1
+Logo_CuerpoHamster
+  rotate: false
+  xy: 2, 2
+  size: 94, 76
+  orig: 94, 76
+  offset: 0, 0
+  index: -1
+Logo_OrejaDer
+  rotate: false
+  xy: 98, 12
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+Logo_OrejaIzq
+  rotate: false
+  xy: 308, 158
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
