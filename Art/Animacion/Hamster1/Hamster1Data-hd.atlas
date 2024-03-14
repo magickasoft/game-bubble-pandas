@@ -1,0 +1,97 @@
+
+Hamster1Data-hd.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hamster1_BrazoDer
+  rotate: false
+  xy: 601, 97
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Hamster1_BrazoIzq
+  rotate: false
+  xy: 551, 32
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Hamster1_CabezaFeliz
+  rotate: false
+  xy: 2, 22
+  size: 99, 95
+  orig: 99, 95
+  offset: 0, 0
+  index: -1
+Hamster1_CabezaGameOver
+  rotate: false
+  xy: 305, 23
+  size: 99, 94
+  orig: 99, 94
+  offset: 0, 0
+  index: -1
+Hamster1_CabezaNormal
+  rotate: false
+  xy: 103, 22
+  size: 99, 95
+  orig: 99, 95
+  offset: 0, 0
+  index: -1
+Hamster1_CabezaNormal1
+  rotate: false
+  xy: 204, 22
+  size: 99, 95
+  orig: 99, 95
+  offset: 0, 0
+  index: -1
+Hamster1_CabezaPeligro
+  rotate: false
+  xy: 406, 23
+  size: 97, 94
+  orig: 97, 94
+  offset: 0, 0
+  index: -1
+Hamster1_Cuerpo
+  rotate: false
+  xy: 505, 74
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+Hamster1_Lagrima
+  rotate: true
+  xy: 29, 5
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+Hamster1_OrejaDer
+  rotate: false
+  xy: 505, 29
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+Hamster1_OrejaIzq
+  rotate: false
+  xy: 555, 74
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+Hamster1_PiernaDer
+  rotate: false
+  xy: 2, 2
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+Hamster1_PiernaIzq
+  rotate: false
+  xy: 551, 54
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1

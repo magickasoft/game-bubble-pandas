@@ -1,0 +1,291 @@
+{"frames": {
+
+"Arcoiris.png":
+{
+	"frame": {"x":644,"y":642,"w":656,"h":310},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":656,"h":310},
+	"sourceSize": {"w":656,"h":310},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GameScene_ArcoBallesta.png":
+{
+	"frame": {"x":1068,"y":2,"w":132,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":132,"h":54},
+	"sourceSize": {"w":132,"h":54},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GameScene_BarraNivel.png":
+{
+	"frame": {"x":168,"y":400,"w":639,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":639,"h":140},
+	"sourceSize": {"w":639,"h":140},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GameScene_BaseBallesta.png":
+{
+	"frame": {"x":960,"y":2,"w":106,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":52},
+	"sourceSize": {"w":106,"h":52},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GameScene_BolaReserva.png":
+{
+	"frame": {"x":2,"y":110,"w":100,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":84},
+	"sourceSize": {"w":100,"h":84},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GameScene_BolitaCeleste.png":
+{
+	"frame": {"x":114,"y":2,"w":42,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":42},
+	"sourceSize": {"w":42,"h":42},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GameScene_BotonPause.png":
+{
+	"frame": {"x":158,"y":2,"w":54,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":54},
+	"sourceSize": {"w":54,"h":54},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GameScene_BotonPauseHold.png":
+{
+	"frame": {"x":214,"y":2,"w":54,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":54},
+	"sourceSize": {"w":54,"h":54},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GameScene_CirculoParticula.png":
+{
+	"frame": {"x":2,"y":2,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GameScene_CruzHit.png":
+{
+	"frame": {"x":104,"y":110,"w":98,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":98},
+	"sourceSize": {"w":98,"h":98},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GameScene_CuadroBajo.png":
+{
+	"frame": {"x":396,"y":110,"w":204,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":66},
+	"sourceSize": {"w":204,"h":66},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GameScene_Cuerda.png":
+{
+	"frame": {"x":74,"y":2,"w":6,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":6,"h":106},
+	"sourceSize": {"w":6,"h":106},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GameScene_EstrellaParticula.png":
+{
+	"frame": {"x":46,"y":2,"w":26,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":26},
+	"sourceSize": {"w":26,"h":26},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GameScene_FlechaBallesta.png":
+{
+	"frame": {"x":300,"y":110,"w":94,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":130},
+	"sourceSize": {"w":94,"h":130},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GameScene_FlechaBallestaBlanco.png":
+{
+	"frame": {"x":204,"y":110,"w":94,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":130},
+	"sourceSize": {"w":94,"h":130},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GameScene_FondoAbajo.png":
+{
+	"frame": {"x":2,"y":642,"w":640,"h":202},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":202},
+	"sourceSize": {"w":640,"h":202},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GameScene_Limite.png":
+{
+	"frame": {"x":338,"y":2,"w":620,"h":6},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":620,"h":6},
+	"sourceSize": {"w":620,"h":6},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GameScene_PuntoLinea.png":
+{
+	"frame": {"x":82,"y":2,"w":30,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
+	"sourceSize": {"w":30,"h":30},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GameScene_Semilla.png":
+{
+	"frame": {"x":20,"y":2,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GameScene_Swap.png":
+{
+	"frame": {"x":270,"y":2,"w":66,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":66},
+	"sourceSize": {"w":66,"h":66},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PauseScene_BarraPoder.png":
+{
+	"frame": {"x":602,"y":110,"w":640,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":24},
+	"sourceSize": {"w":640,"h":24},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PauseScene_BotonHome.png":
+{
+	"frame": {"x":2,"y":400,"w":164,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":156},
+	"sourceSize": {"w":164,"h":156},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PauseScene_BotonHomeHold.png":
+{
+	"frame": {"x":666,"y":242,"w":164,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":156},
+	"sourceSize": {"w":164,"h":156},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PauseScene_BotonRestart.png":
+{
+	"frame": {"x":500,"y":242,"w":164,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":156},
+	"sourceSize": {"w":164,"h":156},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PauseScene_BotonRestartHold.png":
+{
+	"frame": {"x":2,"y":242,"w":164,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":156},
+	"sourceSize": {"w":164,"h":156},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PauseScene_BotonResume.png":
+{
+	"frame": {"x":168,"y":242,"w":164,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":156},
+	"sourceSize": {"w":164,"h":156},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PauseScene_BotonResumeHold.png":
+{
+	"frame": {"x":334,"y":242,"w":164,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":156},
+	"sourceSize": {"w":164,"h":156},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PauseScene_CuadroGameOver.png":
+{
+	"frame": {"x":809,"y":400,"w":478,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":478,"h":240},
+	"sourceSize": {"w":478,"h":240},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PauseScene_SoundOff.png":
+{
+	"frame": {"x":998,"y":242,"w":164,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":156},
+	"sourceSize": {"w":164,"h":156},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PauseScene_SoundOn.png":
+{
+	"frame": {"x":832,"y":242,"w":164,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":156},
+	"sourceSize": {"w":164,"h":156},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Tutorial_Cerrar.png":
+{
+	"frame": {"x":1202,"y":2,"w":90,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":88},
+	"sourceSize": {"w":90,"h":88},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "GameScene-hd.png",
+	"format": "RGBA5555",
+	"size": {"w":1302,"h":954},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d1a6c50d084c986ff871ac5f73019ac9:daa777102307166e14245ce8874ab247:3435e42b13531b81c98718738d05ac40$"
+}
+}

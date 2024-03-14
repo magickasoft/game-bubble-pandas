@@ -1,0 +1,62 @@
+
+Tutorial-hd.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tutorial_ArcoBallesta
+  rotate: true
+  xy: 654, 2
+  size: 132, 54
+  orig: 132, 54
+  offset: 0, 0
+  index: -1
+Tutorial_BaseBallesta
+  rotate: true
+  xy: 854, 164
+  size: 106, 54
+  orig: 106, 54
+  offset: 0, 0
+  index: -1
+Tutorial_Burbuja
+  rotate: false
+  xy: 710, 76
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Tutorial_Burbujas
+  rotate: true
+  xy: 654, 136
+  size: 374, 198
+  orig: 374, 198
+  offset: 0, 0
+  index: -1
+Tutorial_Cuadro
+  rotate: true
+  xy: 2, 48
+  size: 462, 650
+  orig: 462, 650
+  offset: 0, 0
+  index: -1
+Tutorial_LineaBlanca
+  rotate: false
+  xy: 980, 428
+  size: 8, 82
+  orig: 8, 82
+  offset: 0, 0
+  index: -1
+Tutorial_Mano
+  rotate: false
+  xy: 854, 402
+  size: 124, 108
+  orig: 124, 108
+  offset: 0, 0
+  index: -1
+Tutorial_PuntaBallesta
+  rotate: false
+  xy: 854, 272
+  size: 94, 128
+  orig: 94, 128
+  offset: 0, 0
+  index: -1

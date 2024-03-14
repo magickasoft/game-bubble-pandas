@@ -1,0 +1,151 @@
+{
+  "levels": [
+    {
+      "scoreNeeded": 900,
+      "rowsAppearing": 5,
+      "bubbleTypesAccepted": 3,
+      "newRowTimeElapse": 25,
+      "probabilityRockAppear": 0
+    },
+    {
+      "scoreNeeded": 1200,
+      "rowsAppearing": 5,
+      "bubbleTypesAccepted": 3,
+      "newRowTimeElapse": 25,
+      "probabilityRockAppear": 0
+    },
+    {
+      "scoreNeeded": 1200,
+      "rowsAppearing": 6,
+      "bubbleTypesAccepted": 3,
+      "newRowTimeElapse": 25,
+      "probabilityRockAppear": 0.025
+    },
+    {
+      "scoreNeeded": 1300,
+      "rowsAppearing": 7,
+      "bubbleTypesAccepted": 3,
+      "newRowTimeElapse": 25,
+      "probabilityRockAppear": 0.025
+    },
+    {
+      "scoreNeeded": 1300,
+      "rowsAppearing": 6,
+      "bubbleTypesAccepted": 4,
+      "newRowTimeElapse": 25,
+      "probabilityRockAppear": 0.025
+    },
+    {
+      "scoreNeeded": 1400,
+      "rowsAppearing": 7,
+      "bubbleTypesAccepted": 4,
+      "newRowTimeElapse": 25,
+      "probabilityRockAppear": 0.025
+    },
+    {
+      "scoreNeeded": 1400,
+      "rowsAppearing": 7,
+      "bubbleTypesAccepted": 4,
+      "newRowTimeElapse": 25,
+      "probabilityRockAppear": 0.035
+    },
+    {
+      "scoreNeeded": 1500,
+      "rowsAppearing": 8,
+      "bubbleTypesAccepted": 4,
+      "newRowTimeElapse": 25,
+      "probabilityRockAppear": 0.035
+    },
+    {
+      "scoreNeeded": 1800,
+      "rowsAppearing": 6,
+      "bubbleTypesAccepted": 5,
+      "newRowTimeElapse": 25,
+      "probabilityRockAppear": 0.025
+    },
+    {
+      "scoreNeeded": 1800,
+      "rowsAppearing": 7,
+      "bubbleTypesAccepted": 5,
+      "newRowTimeElapse": 25,
+      "probabilityRockAppear": 0.025
+    },
+    {
+      "scoreNeeded": 1800,
+      "rowsAppearing": 8,
+      "bubbleTypesAccepted": 5,
+      "newRowTimeElapse": 22,
+      "probabilityRockAppear": 0.025
+    },
+    {
+      "scoreNeeded": 2000,
+      "rowsAppearing": 7,
+      "bubbleTypesAccepted": 5,
+      "newRowTimeElapse": 22,
+      "probabilityRockAppear": 0.03
+    },
+    {
+      "scoreNeeded": 2000,
+      "rowsAppearing": 9,
+      "bubbleTypesAccepted": 5,
+      "newRowTimeElapse": 22,
+      "probabilityRockAppear": 0.03
+    },
+    {
+      "scoreNeeded": 2000,
+      "rowsAppearing": 10,
+      "bubbleTypesAccepted": 5,
+      "newRowTimeElapse": 22,
+      "probabilityRockAppear": 0.03
+    },
+    {
+      "scoreNeeded": 2200,
+      "rowsAppearing": 6,
+      "bubbleTypesAccepted": 6,
+      "newRowTimeElapse": 22,
+      "probabilityRockAppear": 0.02
+    },
+    {
+      "scoreNeeded": 2200,
+      "rowsAppearing": 7,
+      "bubbleTypesAccepted": 6,
+      "newRowTimeElapse": 22,
+      "probabilityRockAppear": 0.02
+    },
+    {
+      "scoreNeeded": 2200,
+      "rowsAppearing": 8,
+      "bubbleTypesAccepted": 6,
+      "newRowTimeElapse": 22,
+      "probabilityRockAppear": 0.02
+    },
+    {
+      "scoreNeeded": 2200,
+      "rowsAppearing": 9,
+      "bubbleTypesAccepted": 6,
+      "newRowTimeElapse": 22,
+      "probabilityRockAppear": 0.02
+    },
+    {
+      "scoreNeeded": 2200,
+      "rowsAppearing": 10,
+      "bubbleTypesAccepted": 6,
+      "newRowTimeElapse": 22,
+      "probabilityRockAppear": 0.02
+    },
+    {
+      "scoreNeeded": 2500,
+      "rowsAppearing": 10,
+      "bubbleTypesAccepted": 6,
+      "newRowTimeElapse": 22,
+      "probabilityRockAppear": 0.025
+    },
+    {
+      "scoreNeeded": 3000,
+      "rowsAppearing": 10,
+      "bubbleTypesAccepted": 6,
+      "newRowTimeElapse": 20,
+      "probabilityRockAppear": 0.025
+    }
+  ]
+}
